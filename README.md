@@ -4,7 +4,7 @@
 
 * **1o. Apresentação da Agência** - Quem somos? / Quem atendemos? 
 * **2o. Apresentação do E-commerce** - https://www.ebit.com.br/webshoppers
-* **3o. Apresenação dos canais possíveis de divulgação** - Google; Sites verticais; Sites e horizontais; Sites de notícias online; Redes de afiliados; Mídias sociais.
+* **3o. Apresentação dos canais possíveis de divulgação** - Google; Sites verticais; Sites e horizontais; Sites de notícias online; Redes de afiliados; Mídias sociais.
 * **4o. Apresentação dos Serviços** - Serviço de desenvolvimento de website; Otimização de páginas para os mecanismos de pesquisa;  Link patrocinado; Integrando o Marketing Digital com o Marketing Impresso.
 
 
