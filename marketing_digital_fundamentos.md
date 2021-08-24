@@ -69,8 +69,8 @@ qual a linha criativa que vamos utilizar para atingir o objetivo da campanha?
 Esse padrão consegue veicular a campanha nos mais diversos tipos de veículos possíveis.
 * **KPI's - CPM:** Existem diversos KPI's de cobrança, por exemplo, temos o CPM.
 Por que ele é um KPI de cobrança? Porque o veículo que está vendendo espaço de mídia à esse anunciante, vai cobrar baseado em CPM.
-Exemplo: Se pagar R$ 100,00 no CPM significa dizer que o banner vai aparecer mil vezes. 
-A cada mil vezes que o banner aparecer tendo clique ou não tem que pagar R$ 100,00 para o veículo.
+Exemplo: Se pagar 100,00 no CPM significa dizer que o banner vai aparecer mil vezes. 
+A cada mil vezes que o banner aparecer tendo clique ou não tem que pagar 100,00 para o veículo.
 * **CPC - custo por clique:** É o formato das campanhas de links patrocinados: Google Ads trabalha com CPC que é o custo por clique.
 Lá o anúncio pode ser visualizado várias vezes sem custo nenhum. Mas a hora que o usuário entrar no Google, fizer uma pesquisa e encontrar o que ele quer em um anúncio se ele clicar naquele anúncio o Google vai cobrar o valor do clique do anunciante.
 * **CPL - custo por lead:** O curso por cliente potencial que gerou na base. Cada lead gerado, cada nome quente que cair na base paga-se um valor por esse lead.

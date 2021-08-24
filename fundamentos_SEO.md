@@ -29,9 +29,9 @@ Para fazermos os exercícios de avaliação da concorrência, precisamos instala
 ## PARTE 4 – SEO ON PAGE
 
 Apenas recordando, SEO On-Page: Ligados diretamente a estrutura das páginas, códigos e conteúdo. São os aspectos internos ao site como:
-* Palavras-chave mais relevantes presentes na Tag <title>;
-* Cada página deve possuir um título <title> próprio, relevante e diferente das outras páginas. PROIBIDO títulos duplicados;
-* Ordem da palavra-chave no <title>. A palavra-chave deve estar no início;
+* Palavras-chave mais relevantes presentes na Tag *title*;
+* Cada página deve possuir um título *title* próprio, relevante e diferente das outras páginas. PROIBIDO títulos duplicados;
+* Ordem da palavra-chave no *title*. A palavra-chave deve estar no início;
 * Imagens com a tag ALT preenchidas e descrição correta da imagem;
 * erificar se o conteúdo do site é duplicado. Evitar copiar conteúdo de outros sites. O conteúdo deve ser único;
 * Sem erros de ortografia e concordância no conteúdo;
@@ -64,7 +64,7 @@ Como montar uma apresentação com os resultados de SEO? </br>
 * Visão Geral do tráfego;
 * Tráfego de Visitas Orgânicas;
 * Comparativos mês atual x mês anterior;
-* omparativos mês atual ano atual x mesmo mês mas ano anterior;
+* Comparativos mês atual ano atual x mesmo mês mas ano anterior;
 * Conversões por tráfego de pesquisa orgânica;
 * Top 10 Páginas Visitadas;
 * Porcentagem de tráfego por canais;
