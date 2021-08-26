@@ -80,9 +80,7 @@ Se vende-se um produto o CPA vai ser uma comissão que vai pagar baseado na vend
 
  * **O que é o remarketing?** Remarketing é você entrar em um site, dar uma navegada pelo site, desiste de comprar o produto, aí você sai daquele site, entra no site de uma notícia qualquer e aí tem um banner lá aparecendo daquela última loja que você entrou.
 
-* **Sitemap: https://sitemap.mockflow.com**
-
-É importante saber que existem dois tipos de sitemaps. Um é para os visitantes do site e o outro é para os motores de busca. O tipo de sitemap que um comerciante precisa criar para ser encontrado facilmente pelo Google é um sitemaps XML. Um sitemap XML fornece um esboço da estrutura de um site na linguagem XML amigável do Googlebot. O Googlebot pode usar este mapa do site para encontrar e indexar o site mais facilmente. </br>
+* **Sitemap: https://sitemap.mockflow.com** - É importante saber que existem dois tipos de sitemaps. Um é para os visitantes do site e o outro é para os motores de busca. O tipo de sitemap que um comerciante precisa criar para ser encontrado facilmente pelo Google é um sitemaps XML. Um sitemap XML fornece um esboço da estrutura de um site na linguagem XML amigável do Googlebot. O Googlebot pode usar este mapa do site para encontrar e indexar o site mais facilmente. </br>
 https://blog.rankingcoach.com/pt/o-que-%C3%A9-um-mapa-do-site
 
 ### 3o. Proposta:
