@@ -23,7 +23,7 @@
 * Número do ticket médio, pois esse número mostra em média quanto uma loja virtual vende;
 * Entender um pouco como é que o mercado investe em mídia digital.
   
-#### 3o. Apresenação dos canais possíveis de divulgação:
+#### 3o. Apresentação dos canais possíveis de divulgação:
 
 * **Google:** O Bing, o Yahoo tem um volume maior de procura, mas o Google é fundamental;
 * **Sites verticais:** São sites focados em nichos específicos de mercado, em assuntos específicos de forma mais fechada;
