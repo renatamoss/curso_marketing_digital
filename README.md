@@ -12,7 +12,7 @@
 
 * **1o. Briefing - Entendendo as necessidades do Cliente** -  Quem é a empresa? O que vende? Concorrentes? O período? Verba?  Quais são os objetivos?
 
-* **2o. Planejamento - Linha criativa da campanha** - Dinâmica de engajamento? Concurso cultural? Cupom de desconto? **Ações táticas - KPI's - indicadores chaves de performance:** Banner Padrão IAB/CPM - vendendo espaço de mídia; CPC - custo por clique; CPL - custo por lead; CPA - ação de venda; Remarketing.
+* **2o. Planejamento - Linha criativa da campanha** - Dinâmica de engajamento? Concurso cultural? Cupom de desconto? **Ações táticas - KPI's - indicadores chaves de performance:** Banner Padrão IAB/CPM - vendendo espaço de mídia; CPC - custo por clique; CPL - custo por lead; CPA - ação de venda; Remarketing; Sitemap.
 
 * **3o. Proposta: mapa de mídia** - Canal onde os anúncios serão exibidos, os formatos, período e pagamento. Número de pageviews  (inventário), CPM (o custo por mil impressões de banners), o custo por e-mail enviado, etc. 
 
