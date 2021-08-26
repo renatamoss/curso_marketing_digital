@@ -25,11 +25,11 @@
   
 #### 3o. Apresentação dos canais possíveis de divulgação:
 
-* **Google:** O Bing, o Yahoo tem um volume maior de procura, mas o Google é fundamental;
+* **Google:** O Bing, o Yahoo tem um enorme volume de procura, mas o Google é fundamental;
 * **Sites verticais:** São sites focados em nichos específicos de mercado, em assuntos específicos de forma mais fechada;
 * **Sites e horizontais:** trabalha conteúdo de uma maneira mais ampla e divide isso em editorias, eles falam de diversos assuntos.
 * **Sites de notícias online:** G1, Folha de São Paulo, Globo, estadão e vários outros jornais e aí você tem que pensar que a pessoa que gosta de ler jornal é público alvo do produto, ele precisa ser impactado na hora que ele está lendo uma notícia;
-* **Redes de afiliados:** Afilio, Awin, Lomadee e várias outras;Elas concentram um grande aglomerado de sites que elas chamam isso de sites afiliados;
+* **Redes de afiliados:** Afilio, Awin, Lomadee e várias outras; Elas concentram um grande aglomerado de sites que elas chamam isso de sites afiliados;
 * **Mídias sociais:**  Facebook, Instagram, Twitter, LinkedIn; Aqui conseguimos ter uma segmentação mais assertiva e o investimento é feito de acordo com o retorno que cada canal trás para a empresa anunciante.
 
 #### 4o. Apresentação dos Serviços:
