@@ -63,7 +63,7 @@
 qual a linha criativa que vamos utilizar para atingir o objetivo da campanha?
 * Vai ser uma dinâmica de engajamento? Vai ser um concurso cultural? Vai ser um cupom de desconto?
 
-#### Ações táticas: KPI's - indicadores chaves de performance
+#### Ações táticas: KPI's - indicadores chaves de performance:
 
 * **Banner Padrão IAB:** Padrão IAB é importante principalmente porque a maioria dos veículos trabalham com padrão IAB.
 Esse padrão consegue veicular a campanha nos mais diversos tipos de veículos possíveis.
@@ -79,6 +79,11 @@ Que ação é essa? A ação de venda. Quando  trabalha com CPA está cobrando o
 Se vende-se um produto o CPA vai ser uma comissão que vai pagar baseado na venda daquele produto.
 
  * **O que é o remarketing?** Remarketing é você entrar em um site, dar uma navegada pelo site, desiste de comprar o produto, aí você sai daquele site, entra no site de uma notícia qualquer e aí tem um banner lá aparecendo daquela última loja que você entrou.
+
+* **Sitemap: https://sitemap.mockflow.com
+
+É importante saber que existem dois tipos de sitemaps. Um é para os visitantes do site e o outro é para os motores de busca. O tipo de sitemap que um comerciante precisa criar para ser encontrado facilmente pelo Google é um sitemaps XML. Um sitemap XML fornece um esboço da estrutura de um site na linguagem XML amigável do Googlebot. O Googlebot pode usar este mapa do site para encontrar e indexar o site mais facilmente.
+https://blog.rankingcoach.com/pt/o-que-%C3%A9-um-mapa-do-site
 
 ### 3o. Proposta:
 
@@ -99,7 +104,7 @@ Temos o clique, que é um indicador fundamental na gestão de resultados para an
 * **Taxa de conversão:** Tem que analisar o volume de tráfego gerado no site e o volume de venda. 
 Em cima disso consegue-se ter o volume da taxa de conversão. É possível fazer o cálculo da taxa de conversão para entender se está acima do mercado ou se está abaixo, se isso atende ou se precisa melhorar a taxa de conversão, se precisa melhorar algo na loja virtual.
 
-* **o retorno sobre o investimento (ROI):** O retorno sobre investimento é um indicador de resultado fundamental nas campanhas de marketing.
+* **O retorno sobre o investimento (ROI):** O retorno sobre investimento é um indicador de resultado fundamental nas campanhas de marketing.
 Tem-se que avaliar o quanto se gastou com mídia digital e o quanto isso trouxe de retorno em vendas.
 Obviamente tem que fazer isso baseado na margem de lucro. 
 
